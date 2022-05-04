@@ -1,4 +1,5 @@
 # F1WebViewer-SelfHosted
+##Fast install F1WebViewer-SelfHosted in linux
 Self-hosted reverse-proxy for F1 web viewer, includes a web server at port 13331.
 
 **If you are experiencing lag / stutter or other issues, try switching player in the Setting Tab.**
